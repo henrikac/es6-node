@@ -1,6 +1,6 @@
 # ES6 Node.js
 
-A basic node.js project that is set up to allow ES6 syntax.
+A basic node.js project that is set up to allow ES6 syntax. The project will also include mocha and chai for testing - no configuration required.
 
 ## Why?
 
